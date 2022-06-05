@@ -10,7 +10,8 @@
 | :---: | :---: | :---: | 
 | <img align='center' src='https://raw.githubusercontent.com/Carpodi/carpodi/main/images/Twitter.png' height='100px'> | <img align='center' src='https://raw.githubusercontent.com/Carpodi/carpodi/main/images/Twitch.png' height='100px'> | <img align='center' src='https://raw.githubusercontent.com/Carpodi/carpodi/main/images/website.png' height='100px'>                                    
 </div>
-  <h3 align="center">Currently Working Onh3>
+ <h3 align="center">Currently Working On<h3>
     
-  | :---: | 
-  | <img align='center' src='https://avatars.githubusercontent.com/u/104711285?s=400&u=c002964232f085b1f470d73b2163ebe047bb5c05&v=4' height='100px'>
+  | :---: | :---: |
+   | <a href="https://kaorystudios.com" target="_blank">**KaoryStudios | Minecraft**</a> | <a href="https://kaorystudios.com target="_blank">**KaoryStudios | Discord** | 
+  | <img align='center' src='https://avatars.githubusercontent.com/u/104711285?s=400&u=c002964232f085b1f470d73b2163ebe047bb5c05&v=4' height='100px'> | <img align='center' src='https://avatars.githubusercontent.com/u/104711285?s=400&u=c002964232f085b1f470d73b2163ebe047bb5c05&v=4' height='100px'> |
