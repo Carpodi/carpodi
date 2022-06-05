@@ -6,5 +6,5 @@
 <div align="center">
 
 | <a href="https://twitter.com/carpodi" target="_blank">**Twitter**</a> | <a href="https://twitch.tv/carpodi" target="_blank">**Twitch**
- | :---: | :---: | :---: | :---: | :---: | :---: | 
-| <img align='center' src='' height='100px'> | <img 
+
+| <img align='center' src='https://raw.githubusercontent.com/Carpodi/carpodi/main/images/Twitter.png' height='100px'> | <img 
