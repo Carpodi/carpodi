@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi! Im Carpodi.
+<img src= https://raw.githubusercontent.com/Carpodi/carpodi/main/images/Twitch.png>
 
 <!--
 **Carpodi/carpodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
