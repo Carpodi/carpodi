@@ -15,6 +15,6 @@
 
 <div align="center">
 
-| <a href="https://twitter.com/carpodii" target="_blank">**Twitter**</a> | <a href="https:/twitch.tv/carpodi" target="_blank">**Twitch** | <a href="https://carpodi.github.io/me" target="_blank">**Web**</a> | 
+| <a href="https://kaorystudios.xyz" target="_blank">**KaoryStudios**</a> | <a href="https:/kaorystudios.xyz/minecraftdev" target="_blank">**KaoryStudiosMC** | <a href="https://kaorystudiosdiscord.github.io/" target="_blank">**KaoryStudiosDiscord**</a> | 
 | :---: | :---: | :---: | 
 | <img align='center' src='https://avatars.githubusercontent.com/u/104711285?s=400&u=c002964232f085b1f470d73b2163ebe047bb5c05&v=4' height='100px'> | <img align='center' src='https://avatars.githubusercontent.com/u/104711285?s=400&u=c002964232f085b1f470d73b2163ebe047bb5c05&v=4' height='100px'> | <img align='center' src='https://avatars.githubusercontent.com/u/104711285?s=400&u=c002964232f085b1f470d73b2163ebe047bb5c05&v=4' height='100px'> |
