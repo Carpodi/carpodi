@@ -16,7 +16,7 @@
 <div align="center">
 
   | <a href="https://kaorystudiosdiscord.github.io/" target="_blank">**KaoryStudiosDiscord**</a> | <a href="https://omegazstudios.com" target="_blank">**OmegaZStudios**</a> |     <a href="https://isyourserver.online" target="_blank">**ISYSO-Development**</a> |
-| :---: | :---: |  :---: | :---: | 
+| :---: | :---: |  :---: | 
 | height='100px'> | <img align='center' src='https://avatars.githubusercontent.com/u/104711285?s=400&u=c002964232f085b1f470d73b2163ebe047bb5c05&v=4' height='100px'> | <img align='center' src='https://avatars.githubusercontent.com/u/104702051?s=400&u=283949bd098e95415d5102bbe0c117644d19554a&v=4' height='100px'> |  <img align='center' src='https://avatars.githubusercontent.com/u/128551001?s=200&v=4' height='100px'> | <img align='center' src='https://avatars.githubusercontent.com/u/121261615?s=200&v=4' height='100px'> | 
 
 
