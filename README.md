@@ -17,7 +17,7 @@
 
   | <a href="https://omegazstudios.com" target="_blank">**OmegaZStudios**</a> | 
 :---: |  
- | < <img align='center' src='https://avatars.githubusercontent.com/u/128551001?s=200&v=4' height='100px'> | <img align='center' src='https://avatars.githubusercontent.com/u/121261615?s=200&v=4' height='100px'> | 
+ | <img align='center' src='https://avatars.githubusercontent.com/u/128551001?s=200&v=4' height='100px'> | <img align='center' src='https://avatars.githubusercontent.com/u/121261615?s=200&v=4' height='100px'> | 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carpodi&theme=dark)](https://github.com/carpodi)
