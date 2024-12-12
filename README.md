@@ -15,7 +15,7 @@
 
 <div align="center">
 
-  | <a href="https://omegazstudios.com" target="_blank">**OmegaZStudios**</a> | 
+  | <a href="https://omegazstudios.github.io" target="_blank">**OmegaZ Studios**</a> | 
 :---: |  
  | <img align='center' src='https://avatars.githubusercontent.com/u/128551001?s=200&v=4' height='100px'> | <img align='center' src='https://avatars.githubusercontent.com/u/121261615?s=200&v=4' height='100px'> | 
 
